@@ -1,5 +1,5 @@
 cask "hyla" do
-  version "3.7.9"
+  version "3.8.0"
   sha256 arm:   "275638b631acd8c0ddd6d5c43520aef8ddf16d0b98687fb030755098566866ae",
          intel: "0065a4f4004b2130d53fee8da515101b7ac30f48fd78c508407a2b585592966a"
 
