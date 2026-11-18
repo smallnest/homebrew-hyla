@@ -1,7 +1,7 @@
 cask "hyla" do
-  version "3.17.3"
-  sha256 arm:   "8a92c12941efd468de155885f2caa36364f06a83ebc2fe15b26dc24a672fc7aa",
-         intel: "b710ab1168d1b1533b5f2b073292fdd53e0e0675709d45e030db4393bab110a8"
+  version "3.17.5"
+  sha256 arm:   "0b45a4a9c89e180ec380554bf3f6683071832a81363bb3a2f5212b1390f9d78e",
+         intel: "9cbd505b0210e2caa1089c41c692b5b9aaba1bef0717771d889bb8806f5dcc17"
 
   on_arm do
     url "https://github.com/smallnest/hyla/releases/download/v#{version}/hyla-#{version}-arm64.dmg"
